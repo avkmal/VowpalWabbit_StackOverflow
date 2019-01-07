@@ -2,6 +2,7 @@ This repository contains the training and testing code of 10 millions Stack Over
 can be downloaded [here](https://drive.google.com/file/d/1ZU4J3KhJDrHVMj48fROFcTsTZKorPGlG/view?usp=sharing).
 
 
-To-do-lists:
+To-do lists:
+- Comment out all lines of code
 - Create full tutorial on training until testing.
 - Make the code more reproducible. Some of the training and testing code requires your own local path.
