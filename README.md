@@ -3,7 +3,6 @@ can be downloaded [here](https://drive.google.com/file/d/1ZU4J3KhJDrHVMj48fROFcT
 
 
 To-do lists:
-- Comment out all lines of code
 - Create full tutorial on training until testing.
 - Make the code more reproducible. Some of the training and testing code requires your own local path.
 - Try hyperopt for automatic hyperparameter tuning. Tune learning rate and learning rate dacay values.
